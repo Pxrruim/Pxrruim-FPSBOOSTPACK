@@ -1,0 +1,6 @@
+Hi, thanks for reading this
+
+When you go into the File, click on one file then press CTRL+A.
+It should select all of the files, press SHIFT + DELETE to
+delete everything and it also deletes everything without
+needing to clear your recycle bin!
